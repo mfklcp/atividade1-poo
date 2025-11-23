@@ -8,6 +8,4 @@ public class Main {
 
         IO.println(kesia.getName());
     }
-
-    ajsdjahsdk
 }
