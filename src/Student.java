@@ -20,7 +20,3 @@ public class Student {
         email = emailProperty;
     }
 }
-
-void main() {
-    Student bruno = new Student("Bruno", "ahsda@gmail.com");
-}
