@@ -15,7 +15,7 @@ public class Student {
         return email;
     }
 
-    Student(String nameProperty, String emailProperty) { // hhh == "Kesia", zzz = "asjda@bol.com.br"
+    Student(String nameProperty, String emailProperty) {
         name = nameProperty;
         email = emailProperty;
     }
